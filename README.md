@@ -34,11 +34,13 @@ This command will build the necessary Docker images (application and Redis) and 
 The application currently focuses on a command-line interface. You can interact with it using environment variables defined in the .env file (create one if it doesn't exist). 
 
 ## Environment Variables:
-- DB_ADDR="db:6379"
-- DB_PASS=""
-- APP_PORT= ":3000"
-- DOMAIN="localhost:3000"
-- API_QUOTA=10
+```bash
+DB_ADDR="db:6379"
+DB_PASS=""
+APP_PORT= ":3000"
+DOMAIN="localhost:3000"
+API_QUOTA=10
+```
 
 ## Example Usage:
 - Shorten a URL (replace http://longurl.example.com with your desired URL):
