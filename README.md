@@ -20,7 +20,7 @@ This project implements a URL shortener service written in Go that leverages Red
 ## Setup
 1. Clone the Repository:
  ```bash
-git clone https://github.com/jyotiprakashh/url-shortner
+git clone https://github.com/jyotiprakashh/url-shortner.git
 cd url-shortner
 ```
 2. Start the Services:
