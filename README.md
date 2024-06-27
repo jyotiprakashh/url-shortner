@@ -55,7 +55,7 @@ curl -X POST http://localhost:3000/api/v1 -d '{"url":"http://longurl.example.com
 
 - Redirect to the original URL:
 ```bash
-curl http://localhost:8080/abc123
+curl http://localhost:8080/custom_name
 ```
 
 
