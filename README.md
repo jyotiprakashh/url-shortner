@@ -52,6 +52,9 @@ curl -X POST http://localhost:3000/api/v1 -d '{"url":"http://longurl.example.com
 ```bash
 curl -X POST http://localhost:3000/api/v1 -d '{"url":"http://longurl.example.com", "short":"custom_name"}'
 ```
+Example-
+![alt text](https://github.com/jyotiprakashh/url-shortner/blob/main/Screenshot.png?raw=true)
+
 
 - Redirect to the original URL:
 ```bash
