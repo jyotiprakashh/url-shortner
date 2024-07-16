@@ -1,4 +1,4 @@
-# URL Shortener 
+# 🔗 URL Shortener 
 
 This project implements a URL shortener service written in Go that leverages Redis for efficient storage and retrieval of shortened URLs. It utilizes Docker and Docker Compose for streamlined development, deployment, and scaling.
 
